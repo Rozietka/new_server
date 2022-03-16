@@ -14,7 +14,6 @@ app.init = () => {
     // - istrinti senus/nebereikalingus failus
     // - maziau naudojamu failu archivavimas
     // - atsinaujinti informacijos per/is API
-    
 };
 
 app.init()
