@@ -7,3 +7,4 @@ class PageHome extends PageTemplate {
 };
 
 export { PageHome };
+// testas
